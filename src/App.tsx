@@ -32,7 +32,7 @@ export const data = {
     {
       role: "React Native Developer",
       company: "Hero MotoCorp Ltd., Gurugram, Haryana",
-      period: "19/05/2023 - Present",
+      period: "May 2023 - Present",
       details: [
         "Built and maintained cross-pladorm mobile applications using React Native with Redux-Saga for state management.",
         "Integrated secure online payments using Razorpay.",
