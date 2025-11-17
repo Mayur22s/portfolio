@@ -94,10 +94,6 @@ const App = () => {
           <Contact />
         </Section>
       </main>
-
-      <footer className="max-w-4xl mx-auto px-6 py-6 text-sm text-gray-600">
-        © {new Date().getFullYear()} {data.name}. Built with React.
-      </footer>
     </div>
   )
 }
