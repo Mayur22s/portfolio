@@ -6,7 +6,7 @@ import { About, Contact, Education, Experience, ListGrid } from './sections';
 export const data = {
   name: "Mayur Laxman Sadgir",
   title: "React Native Developer",
-  location: "Gurugram, Haryana, India",
+  location: "Kalyan, Haryana, India",
   email: "mayursadgir99@gmail.com",
   phone: "+91 9076425889",
   summary:

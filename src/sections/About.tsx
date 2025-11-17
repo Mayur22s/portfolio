@@ -10,8 +10,6 @@ export const About = () => {
                 {data.title} — {data.location}
             </p>
 
-            {/* <p className="mt-4 text-gray-800">{data.summary}</p> */}
-
             <div className="mt-4 flex justify-center gap-3">
                 <a
                     href={data.links.website}
