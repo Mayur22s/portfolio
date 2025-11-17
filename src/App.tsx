@@ -55,7 +55,7 @@ export const data = {
   ],
 
   education: [
-    { degree: "Post Graduation Diploma in Advanced Computing", school: "CDAC-Noida", year: "2022-2023" },
+    { degree: "Post Graduation Diploma in Advanced Computing", school: "CDAC-Noida", year: "Sep 2022 - March 2023" },
     { degree: "B.E - Mechanical", school: "Mumbai University", year: "2017-2020" },
   ],
 
