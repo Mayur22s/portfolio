@@ -62,7 +62,7 @@ export const data = {
   links: {
     github: "https://github.com/Mayur22s",
     linkedin: "https://www.linkedin.com/in/mayur-sadgir-a81a731a0",
-    website: "https://mohanreddy0909.github.io/MyPortfolio/",
+    website: "https://my-portfolio-zeta-nine-45.vercel.app/",
   },
 
 };
