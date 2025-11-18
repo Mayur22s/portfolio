@@ -15,7 +15,7 @@ export const data = {
     "React",
     "React Native",
     "Redux",
-    "JavaScript (ES6)",
+    "JavaScript (ES6+)",
     "TypeScript",
     "REST APIs",
   ],
