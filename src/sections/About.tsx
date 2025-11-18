@@ -35,6 +35,14 @@ export const About = () => {
                 >
                     LinkedIn
                 </a>
+
+                <a
+                    href="/resume.pdf"
+                    download
+                    className="px-4 py-2 border rounded bg-black text-white hover:bg-gray-800"
+                >
+                    Download Resume
+                </a>
             </div>
         </header>
     );
