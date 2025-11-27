@@ -11,14 +11,14 @@ export const About = () => {
             </p>
 
             <div className="mt-4 flex justify-center gap-3">
-                <a
+                {/* <a
                     href={data.links.website}
                     target="_blank"
                     rel="noreferrer"
                     className="px-4 py-2 border rounded"
                 >
                     Website
-                </a>
+                </a> */}
                 <a
                     href={data.links.github}
                     target="_blank"
